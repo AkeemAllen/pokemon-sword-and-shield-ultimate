@@ -1,0 +1,8 @@
+# Route 5
+
+| Area | Pokemon | | | | | |
+        | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
+        | Grass Normal<br/> Lv.  | ![riolu](../../img/pokemon/riolu.png)<br/> [Riolu](/pokemon-sword-and-shield-ultimate/pokemon/454-riolu)<br/> 7% | ![espurr](../../img/pokemon/espurr.png)<br/> [Espurr](/pokemon-sword-and-shield-ultimate/pokemon/699-espurr)<br/> 7% | ![nuzleaf](../../img/pokemon/nuzleaf.png)<br/> [Nuzleaf](/pokemon-sword-and-shield-ultimate/pokemon/274-nuzleaf)<br/> 7% | ![dewpider](../../img/pokemon/dewpider.png)<br/> [Dewpider](/pokemon-sword-and-shield-ultimate/pokemon/782-dewpider)<br/> 7% | ![minccino](../../img/pokemon/minccino.png)<br/> [Minccino](/pokemon-sword-and-shield-ultimate/pokemon/590-minccino)<br/> 7% | ![dottler](../../img/pokemon/dottler.png)<br/> [Dottler](/pokemon-sword-and-shield-ultimate/pokemon/856-dottler)<br/> 7% 
+| | ![applin](../../img/pokemon/applin.png)<br/> [Applin](/pokemon-sword-and-shield-ultimate/pokemon/871-applin)<br/> 7% | ![wobbuffet](../../img/pokemon/wobbuffet.png)<br/> [Wobbuffet](/pokemon-sword-and-shield-ultimate/pokemon/202-wobbuffet)<br/> 7% | ![spritzee](../../img/pokemon/spritzee.png)<br/> [Spritzee](/pokemon-sword-and-shield-ultimate/pokemon/705-spritzee)<br/> 7% | ![lombre](../../img/pokemon/lombre.png)<br/> [Lombre](/pokemon-sword-and-shield-ultimate/pokemon/271-lombre)<br/> 7% | ![nincada](../../img/pokemon/nincada.png)<br/> [Nincada](/pokemon-sword-and-shield-ultimate/pokemon/290-nincada)<br/> 7% | ![stufful](../../img/pokemon/stufful.png)<br/> [Stufful](/pokemon-sword-and-shield-ultimate/pokemon/790-stufful)<br/> 7% |
+
+        

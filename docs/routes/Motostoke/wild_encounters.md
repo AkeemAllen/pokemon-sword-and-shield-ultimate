@@ -1,0 +1,8 @@
+# Motostoke
+
+| Area | Pokemon | | | | | |
+        | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
+        | Grass Normal<br/> Lv.  | ![machop](../../img/pokemon/machop.png)<br/> [Machop](/pokemon-sword-and-shield-ultimate/pokemon/066-machop)<br/> 8% | ![sudowoodo](../../img/pokemon/sudowoodo.png)<br/> [Sudowoodo](/pokemon-sword-and-shield-ultimate/pokemon/185-sudowoodo)<br/> 8% | ![hitmonchan](../../img/pokemon/hitmonchan.png)<br/> [Hitmonchan](/pokemon-sword-and-shield-ultimate/pokemon/107-hitmonchan)<br/> 8% | ![pumpkaboo-average](../../img/pokemon/pumpkaboo-average.png)<br/> [Pumpkaboo-average](/pokemon-sword-and-shield-ultimate/pokemon/733-pumpkaboo-average)<br/> 8% | ![tympole](../../img/pokemon/tympole.png)<br/> [Tympole](/pokemon-sword-and-shield-ultimate/pokemon/551-tympole)<br/> 8% | ![chewtle](../../img/pokemon/chewtle.png)<br/> [Chewtle](/pokemon-sword-and-shield-ultimate/pokemon/864-chewtle)<br/> 8% 
+| | ![noctowl](../../img/pokemon/noctowl.png)<br/> [Noctowl](/pokemon-sword-and-shield-ultimate/pokemon/164-noctowl)<br/> 8% | ![roggenrola](../../img/pokemon/roggenrola.png)<br/> [Roggenrola](/pokemon-sword-and-shield-ultimate/pokemon/540-roggenrola)<br/> 8% | ![hatenna](../../img/pokemon/hatenna.png)<br/> [Hatenna](/pokemon-sword-and-shield-ultimate/pokemon/887-hatenna)<br/> 8% | ![hitmonlee](../../img/pokemon/hitmonlee.png)<br/> [Hitmonlee](/pokemon-sword-and-shield-ultimate/pokemon/106-hitmonlee)<br/> 8% | ![koffing](../../img/pokemon/koffing.png)<br/> [Koffing](/pokemon-sword-and-shield-ultimate/pokemon/109-koffing)<br/> 8% | ![hippopotas](../../img/pokemon/hippopotas.png)<br/> [Hippopotas](/pokemon-sword-and-shield-ultimate/pokemon/456-hippopotas)<br/> 8% |
+
+        
